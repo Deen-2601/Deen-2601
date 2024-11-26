@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I’m a QA Engineer with a passion for delivering 
 
 - 🥾 Hiker at Heart: When not testing software, I explore trails like the Bastei Loop or along the Elbe River.
 
+##
+
 ## 🛠️ My Toolbox
 Here are some tools and technologies I work with:
 
@@ -23,6 +25,14 @@ Here are some tools and technologies I work with:
 - Version Control: Git, GitHub
 
 - CI/CD: GitHub Actions
+
+##
+
+## 📢 Let’s Connect!
+I’d love to collaborate on QA projects, share insights on automation frameworks, or just chat about hiking trails!
+
+🌐 [LinkedIn](https://www.linkedin.com/in/nurudeen-ayomide-yussuf/)
+📧 yussufnurudeen870@gmail.com
 
 <!--
 **Deen-2601/Deen-2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
