@@ -32,7 +32,8 @@ Here are some tools and technologies I work with:
 I’d love to collaborate on QA projects, share insights on automation frameworks, or just chat about hiking trails!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/nurudeen-ayomide-yussuf/)
-📧 yussufnurudeen870@gmail.com
+
+📧 [Email Me](yussufnurudeen870@gmail.com)
 
 <!--
 **Deen-2601/Deen-2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
