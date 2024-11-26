@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a QA Engineer with a passion for delivering 
 
 - 🎓 Certified Professional: Proud holder of the ISTQB Certified Tester Foundation Level, reflecting my commitment to QA excellence.
 
-- 🌍 Collaborator: I enjoy working with diverse teams to solve complex problems and streamline development processes.
+- 🌍 Seeking New Opportunities: I’m currently looking for a QA Engineer role where I can contribute my expertise in test automation and collaborative problem-solving
 
 - 🥾 Hiker at Heart: When not testing software, I explore trails like the Bastei Loop or along the Elbe River.
 
@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I’m a QA Engineer with a passion for delivering 
 ## 🛠️ My Toolbox
 Here are some tools and technologies I work with:
 
-- Programming Languages: JavaScript, TypeScript
+- Programming Languages: JavaScript, TypeScript, Java, Python.
 
-- Testing Tools: Cypress, Selenium, Appium, Playwright, Postman
+- Testing Tools: Cypress, Selenium, Appium, Playwright, Postman.
 
-- Version Control: Git, GitHub
+- Version Control: Git, GitHub.
 
-- CI/CD: GitHub Actions
+- CI/CD: GitHub Actions, Jenkins, Docker, Kubernetes.
 
 ##
 
@@ -34,6 +34,13 @@ I’d love to collaborate on QA projects, share insights on automation framework
 🌐 [LinkedIn](https://www.linkedin.com/in/nurudeen-ayomide-yussuf/)
 
 📧 [Email Me](yussufnurudeen870@gmail.com)
+
+##
+
+## Ready to elevate software quality? Let’s work together to achieve great results!
+##
+
+
 
 <!--
 **Deen-2601/Deen-2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
