@@ -11,7 +11,18 @@ Welcome to my GitHub profile! I’m a QA Engineer with a passion for delivering 
 
 - 🌍 Collaborator: I enjoy working with diverse teams to solve complex problems and streamline development processes.
 
-- 🥾 Hiker at Heart: When I’m not testing software, I’m exploring trails like the Bastei Loop or along the Elbe River.
+- 🥾 Hiker at Heart: When not testing software, I explore trails like the Bastei Loop or along the Elbe River.
+
+## 🛠️ My Toolbox
+Here are some tools and technologies I work with:
+
+- Programming Languages: JavaScript, TypeScript
+
+- Testing Tools: Cypress, Selenium, Appium, Playwright, Postman
+
+- Version Control: Git, GitHub
+
+- CI/CD: GitHub Actions
 
 <!--
 **Deen-2601/Deen-2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
