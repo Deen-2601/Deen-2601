@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I’m a QA Engineer with a passion for delivering 
 ##
 
 ## 🚀 About Me
-
 - 🛠️ Quality Assurance Enthusiast: I specialize in mobile app testing, API testing, and automation frameworks like Cypress and Playwright.
 
 - 🎓 Certified Professional: Proud holder of the ISTQB Certified Tester Foundation Level, reflecting my commitment to QA excellence.
